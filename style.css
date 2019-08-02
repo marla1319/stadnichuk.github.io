@@ -1,0 +1,65 @@
+.upper_line { color:#222255;
+    font-weight:bold;
+    background-color:#EEE8AA;
+    text-align:center
+
+}
+.aboutCompany {text-align: center}
+.company {
+     font-weight:bold;
+     font-size:30px
+}
+
+.activity {
+     font-weight:bold;
+     font-size:16px
+}
+.blocks {
+    text-align: center;
+    font-size:20px;
+    font-weight:bold;
+    }
+.blocks a:link{
+    color:#B8860B
+}
+.blocks a:visited{
+    color:#DAA520
+}
+
+h1 {
+    font-weight:bold;
+    text-align:center
+
+}
+
+.aboutMe {
+    text-align: center
+}
+
+.myServices {
+    text-align: center
+}
+
+span.left_block {
+float:left;
+
+}
+span.right_block {
+float:right;
+
+}
+
+.block_re {
+    text-align: left;
+    border-style: solid;
+    border-color: #FFFACD;
+    display: inline-block;
+    background-color: #FFE4B5;
+    padding: 30px;
+}
+
+table, th, td {
+    /*border-style: solid;*/
+    font-size:24px;
+    border: 1px solid black;
+}
